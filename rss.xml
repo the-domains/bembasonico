@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BembaSonico]]></title>
+        <description><![CDATA[BembaSonico]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 12:15:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Debo Band Live at Secret Planet Showcase 2]]></title>
+            <description><![CDATA[<article><h1>Debo Band Live at Secret Planet Showcase 2</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7555212319ab1e76415a99f945c6985bc6d0a271.jpg"></article>]]></description>
+            <link>undefineddebo-band-live-at-secret-planet-showcase-2/index.html</link>
+            <guid isPermaLink="false">1b9e5c2b-d8c5-4030-bc7a-428f991bb2b7</guid>
+            <pubDate>Wed, 27 Jan 2016 12:15:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
