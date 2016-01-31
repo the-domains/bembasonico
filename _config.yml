@@ -1,6 +1,6 @@
 name: BembaSonico
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25706
 typography_spectrum: 0.597221658565104
 title: Bemba Sonico
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#570000'
-    - '#ff6a01'
-    - '#af3000'
-    - '#9f0000'
+    - '#0b0908'
+    - '#fffffd'
+    - '#4b4843'
+    - '#9b896f'
+    - '#17849b'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
